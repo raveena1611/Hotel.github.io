@@ -1,0 +1,28 @@
+<html>
+<head>
+        <title><b>BELGIAN WAFFLE</b></title>
+<style>
+         p {
+           border: 3px solid Sienna;
+           padding: 30px;
+ 
+           }
+a:link {
+text-decoration: none;
+color:Sienna;
+}
+a:visited {
+color:Sienna;
+}
+        </style>
+</head>
+    <body style="background-color:SeaShell">
+   <h1 style="border:2px solid Sienna"><b><center>BELGIAN WAFFLES</center></b></h1>
+&nbsp;<a href="waffle2.html"><b>OUR STORY</b></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="menu.html"><b>MENU</b></a>
+<img src="w1.png" width="985" height="400"/><br>
+<h2><b><center>OUR SPECIALITY<center></b></h2>
+<p style="background-color:white">&nbsp;<img src="w2.png" width="270" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="w3.png" width="270" height="250"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="w4.png" width="270" height="250"/></p>
+    </body>
+</html>
+</html>
+
